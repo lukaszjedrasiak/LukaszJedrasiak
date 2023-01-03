@@ -1,24 +1,25 @@
 # Lukasz Jedrasiak
 **jamstack front-end web developer | hugo ssg • vanilla javascript • plain css • html • figma**
 
-### stack
+## about
+stack
 - vanilla javascript, 
 - plain css,
 - html.
 
-### tools
+tools
 - hugo ssg,
 - vsc,
 - figma.
 
-### clifton strengths (gallup test)
+clifton strengths (gallup test)
 - deliberative,
 - learner,
 - achiever,
 - responsibility,
 - focus.
 
-### interests
+interests
 - robotics.
 
 <!---
