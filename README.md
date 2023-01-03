@@ -1,5 +1,4 @@
-# Lukasz Jedrasiak
-**jamstack front-end web developer | hugo ssg • vanilla javascript • plain css • html • figma**
+# Lukasz Jedrasiak | jamstack front-end web developer
 
 ## about
 - stack: vanilla javascript • plain css • html.
