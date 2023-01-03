@@ -2,7 +2,7 @@
 
 I build websites by the Jamstack approach.
 
-## stack
+### stack
 - vanilla javascript, 
 - plain css,
 - html.
