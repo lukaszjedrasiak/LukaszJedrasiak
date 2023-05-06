@@ -14,7 +14,7 @@ front-end developer • no-code / low-code developer • digital marketing speci
 - learner
 - achiever
 - responsibility
-- focus.
+- focus
 
 ## interests
 - robotics
