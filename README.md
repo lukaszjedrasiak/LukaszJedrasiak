@@ -7,7 +7,7 @@ front-end developer • no-code / low-code developer • digital marketing speci
 - figma
 - bubble
 - make
-- xano
+- airtable
 
 ## clifton strengths (gallup test)
 - deliberative
