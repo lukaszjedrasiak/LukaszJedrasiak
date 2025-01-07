@@ -1,6 +1,7 @@
 # lukasz jedrasiak
-AI engineer
+Hello, this is Łukasz Jędrasiak – AI engineer. I’m currently working for software house @havenocode, where I focus on business process automation using artificial intelligence.
 
+In my off-the-clock time, I’m building an AI agent for personal knowledge management, a structured AI knowledge base and software for designing prompts for large language models.
 ## stack
 - JavaScript
 - Express
