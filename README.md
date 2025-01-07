@@ -1,13 +1,13 @@
 # lukasz jedrasiak
-front-end developer • no-code / low-code developer • digital marketing specialist • ai developer
+AI engineer
 
 ## stack
-- vanilla js
-- hugo ssg
-- figma
-- bubble
-- make
-- airtable
+- JavaScript
+- Express
+- Node.js
+- Python
+- FastAPI
+- MongoDB
 
 ## clifton strengths (gallup test)
 - deliberative
